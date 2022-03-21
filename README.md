@@ -58,7 +58,7 @@ Operational Systems, Text Editor, Software, Solutions and Others...
 ||
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ||
-![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=azure)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
 ![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=trello)
 ||
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
