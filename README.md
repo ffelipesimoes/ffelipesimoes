@@ -42,7 +42,6 @@ Frameworks i worked with i know i can be of help
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=orange)
-![Jquery](https://img.shields.io/badge/-Jquery-black?style=for-the-badge&logo=jquery)
 
 ### 🛠️ Tools
 
@@ -59,7 +58,7 @@ Operational Systems, Text Editor, Software, Solutions and Others...
 ||
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ||
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)
+![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=azure)
 ![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=trello)
 ||
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
