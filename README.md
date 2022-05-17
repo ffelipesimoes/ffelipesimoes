@@ -4,7 +4,7 @@
 💻 MBA in Blockchain Applications.</br>
 🏠 World's citzen based in Fortaleza- CE , Brazil 🇧🇷. <br/>
 👨‍💻 I’m a Web3 Developer with background in ITPro.<br/>
-💳 Now on board of [BlockBR](https://blockbr.com.br/) team, as FullStack and Solidity developer.</br>
+💳 Now on board of [Mentora](https://www.mentora.gg/) team, as Web3 developer.</br>
 💳 Also on board of [CryptoJr](https://cryptojr.org/) team, as Head of Technology and web3 developer.</br>
 🔭 Researching web3, smart contracts and blockchain.<br/>
 👁️‍🗨️ I speak Portuguese and English.</br>
