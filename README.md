@@ -2,7 +2,7 @@
 
 🐍 Felipe Simões. </br>
 💻 MBA in Blockchain Applications.</br>
-🏠 World's citzen from Brazil 🇧🇷. <br/>
+🏠 World's citzen minted in Brazil 🇧🇷. <br/>
 👨‍💻 I’m a Web3 Developer with background in ITPro.<br/>
 💳 Now on board of [Mentora](https://www.mentora.gg/) team, as Web3 developer.</br>
 💳 Also on board of [CryptoJr](https://cryptojr.org/) team, as Head of Technology and web3 developer.</br>
