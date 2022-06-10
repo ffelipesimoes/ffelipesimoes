@@ -47,6 +47,7 @@ Frameworks i worked with i know i can be of help
 
 Operational Systems, Text Editor, Software, Solutions and Others...
 
+![Hardhat](https://img.shields.io/badge/Hardhat-Code?style=for-the-badge&logo=ethereum&logoColor=black&color=F1C232)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 ![Macos](https://img.shields.io/badge/-Macos-black?style=for-the-badge&logo=apple) ||
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-black?style=for-the-badge&logo=sublimetext)
