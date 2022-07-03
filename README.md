@@ -28,9 +28,9 @@ Computer Related Skills
 
 In order of knowledge/priority
 
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=for-the-badge&logo=solidity)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=for-the-badge&logo=solidity)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 
