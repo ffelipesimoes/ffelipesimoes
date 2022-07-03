@@ -5,11 +5,9 @@
 🏠 World's citzen minted in Brazil 🇧🇷. <br/>
 👨‍💻 I’m a Web3 Developer with background in ITPro.<br/>
 💳 Now on board of [Mentora](https://www.mentora.gg/) team, as Web3 developer.</br>
-💳 Also on board of [CryptoJr](https://cryptojr.org/) team, as Head of Technology and web3 developer.</br>
 🔭 Researching web3, smart contracts and blockchain.<br/>
 👁️‍🗨️ I speak Portuguese and English.</br>
-💬 Trying to learn French . `not sure may change`<br/>
-😎 My hobbies are playing guitar and make jokes.</br>
+😎 My hobbies are playing guitar and make people laugh.</br>
 🎩 I am a startup enthusiast, love to talk about new projects and business ideas .</br>
 👽 People consider me a proactive and a problem solver .</br>
 🍕 Always open to new programming projects.</br>
